@@ -92,7 +92,7 @@ youtube-downloader/
 ├── utils.py             # Các hàm tiện ích
 ├── icon.ico             # Icon ứng dụng
 ├── requirements.txt     # Danh sách thư viện
-└── README.md           # File này
+└── README.md            # File này
 ```
 
 ## 🔧 Các tính năng kỹ thuật
