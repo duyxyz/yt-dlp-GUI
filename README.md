@@ -48,7 +48,7 @@
 
 1. Clone repository:
 ```bash
-git clone https://github.com/duy/youtube-downloader.git
+git clone https://github.com/duy/youtube-downloader.git](https://github.com/duyxyz/yt-dlp-GUI.git
 cd youtube-downloader
 ```
 
