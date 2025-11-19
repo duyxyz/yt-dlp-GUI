@@ -18,7 +18,7 @@
 
 ## 📸 Giao diện
 
-<img width="596" height="535" alt="{7AF5BAEC-89E5-43D2-B408-744EA0524922}" src="https://github.com/user-attachments/assets/2dde8751-927b-47c0-bb01-61f0cf859be8" />
+<img width="396" height="335" alt="{7AF5BAEC-89E5-43D2-B408-744EA0524922}" src="https://github.com/user-attachments/assets/2dde8751-927b-47c0-bb01-61f0cf859be8" />
 
 
 ## 🚀 Cài đặt
